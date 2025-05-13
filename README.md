@@ -8,7 +8,7 @@ def guess_the_number():
     attempts = 0
 
     print("Welcome to Guess the Number!")
-    print("I'm thinking of a number between 1 and 100.")
+    print("I'm thinking of a number between 1 and 200.")
 
     while True:
         try:
